@@ -69,6 +69,9 @@ Configure the plugin using these environment variables in your `.zshrc`:
 ```bash
 # Required
 export OPENAI_API_KEY="your-api-key"
+# Or if you want to use Gemini
+export LLM_PROVIDER="gemini"                            # Default: openai
+export GOOGLE_API_KEY="your-api-key"                   
 
 # Optional configurations
 export OPENAI_MODEL="gpt-4"                              # Default: gpt-3.5-turbo
