@@ -3,7 +3,7 @@
 A Zsh plugin that allows you to interact with your shell using natural language.
 
 ![Natural Language Shell Demo](https://github.com/PsychArch/nlsh/blob/main/capture.gif)
-
+test
 ## Features
 
 - 🤖 Converts natural language to shell commands
